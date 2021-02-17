@@ -1,0 +1,7 @@
+C:\Users\tamy_\source\repos\Hello_Word\bin\Debug\Hello_Word.exe.config
+C:\Users\tamy_\source\repos\Hello_Word\bin\Debug\Hello_Word.exe
+C:\Users\tamy_\source\repos\Hello_Word\bin\Debug\Hello_Word.pdb
+C:\Users\tamy_\source\repos\Hello_Word\obj\Debug\Hello_Word.csprojAssemblyReference.cache
+C:\Users\tamy_\source\repos\Hello_Word\obj\Debug\Hello_Word.csproj.CoreCompileInputs.cache
+C:\Users\tamy_\source\repos\Hello_Word\obj\Debug\Hello_Word.exe
+C:\Users\tamy_\source\repos\Hello_Word\obj\Debug\Hello_Word.pdb

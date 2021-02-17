@@ -1,0 +1,7 @@
+C:\Users\tamy_\source\repos\Proj_Var\bin\Debug\Proj_Var.exe.config
+C:\Users\tamy_\source\repos\Proj_Var\bin\Debug\Proj_Var.exe
+C:\Users\tamy_\source\repos\Proj_Var\bin\Debug\Proj_Var.pdb
+C:\Users\tamy_\source\repos\Proj_Var\obj\Debug\Proj_Var.csprojAssemblyReference.cache
+C:\Users\tamy_\source\repos\Proj_Var\obj\Debug\Proj_Var.csproj.CoreCompileInputs.cache
+C:\Users\tamy_\source\repos\Proj_Var\obj\Debug\Proj_Var.exe
+C:\Users\tamy_\source\repos\Proj_Var\obj\Debug\Proj_Var.pdb

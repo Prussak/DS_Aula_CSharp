@@ -1,0 +1,7 @@
+C:\Users\tamy_\source\repos\AreaTerreno\bin\Debug\AreaTerreno.exe.config
+C:\Users\tamy_\source\repos\AreaTerreno\bin\Debug\AreaTerreno.exe
+C:\Users\tamy_\source\repos\AreaTerreno\bin\Debug\AreaTerreno.pdb
+C:\Users\tamy_\source\repos\AreaTerreno\obj\Debug\AreaTerreno.csprojAssemblyReference.cache
+C:\Users\tamy_\source\repos\AreaTerreno\obj\Debug\AreaTerreno.csproj.CoreCompileInputs.cache
+C:\Users\tamy_\source\repos\AreaTerreno\obj\Debug\AreaTerreno.exe
+C:\Users\tamy_\source\repos\AreaTerreno\obj\Debug\AreaTerreno.pdb

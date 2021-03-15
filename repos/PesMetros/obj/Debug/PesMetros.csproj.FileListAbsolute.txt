@@ -1,0 +1,7 @@
+C:\Users\tamy_\source\repos\PesMetros\obj\Debug\PesMetros.csprojAssemblyReference.cache
+C:\Users\tamy_\source\repos\PesMetros\obj\Debug\PesMetros.csproj.CoreCompileInputs.cache
+C:\Users\tamy_\source\repos\PesMetros\bin\Debug\PesMetros.exe.config
+C:\Users\tamy_\source\repos\PesMetros\bin\Debug\PesMetros.exe
+C:\Users\tamy_\source\repos\PesMetros\bin\Debug\PesMetros.pdb
+C:\Users\tamy_\source\repos\PesMetros\obj\Debug\PesMetros.exe
+C:\Users\tamy_\source\repos\PesMetros\obj\Debug\PesMetros.pdb

@@ -1,0 +1,7 @@
+C:\Users\tamy_\source\repos\Par_ou_Impar\obj\Debug\Par_ou_Impar.csprojAssemblyReference.cache
+C:\Users\tamy_\source\repos\Par_ou_Impar\obj\Debug\Par_ou_Impar.csproj.CoreCompileInputs.cache
+C:\Users\tamy_\source\repos\Par_ou_Impar\bin\Debug\Par_ou_Impar.exe.config
+C:\Users\tamy_\source\repos\Par_ou_Impar\bin\Debug\Par_ou_Impar.exe
+C:\Users\tamy_\source\repos\Par_ou_Impar\bin\Debug\Par_ou_Impar.pdb
+C:\Users\tamy_\source\repos\Par_ou_Impar\obj\Debug\Par_ou_Impar.exe
+C:\Users\tamy_\source\repos\Par_ou_Impar\obj\Debug\Par_ou_Impar.pdb

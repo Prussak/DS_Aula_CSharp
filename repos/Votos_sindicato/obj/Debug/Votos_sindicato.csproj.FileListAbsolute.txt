@@ -1,0 +1,7 @@
+C:\Users\tamy_\source\repos\Votos_sindicato\bin\Debug\Votos_sindicato.exe.config
+C:\Users\tamy_\source\repos\Votos_sindicato\bin\Debug\Votos_sindicato.exe
+C:\Users\tamy_\source\repos\Votos_sindicato\bin\Debug\Votos_sindicato.pdb
+C:\Users\tamy_\source\repos\Votos_sindicato\obj\Debug\Votos_sindicato.csprojAssemblyReference.cache
+C:\Users\tamy_\source\repos\Votos_sindicato\obj\Debug\Votos_sindicato.csproj.CoreCompileInputs.cache
+C:\Users\tamy_\source\repos\Votos_sindicato\obj\Debug\Votos_sindicato.exe
+C:\Users\tamy_\source\repos\Votos_sindicato\obj\Debug\Votos_sindicato.pdb

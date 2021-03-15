@@ -1,0 +1,7 @@
+C:\Users\tamy_\source\repos\QuadradoDivisao\bin\Debug\QuadradoDivisao.exe.config
+C:\Users\tamy_\source\repos\QuadradoDivisao\bin\Debug\QuadradoDivisao.exe
+C:\Users\tamy_\source\repos\QuadradoDivisao\bin\Debug\QuadradoDivisao.pdb
+C:\Users\tamy_\source\repos\QuadradoDivisao\obj\Debug\QuadradoDivisao.csprojAssemblyReference.cache
+C:\Users\tamy_\source\repos\QuadradoDivisao\obj\Debug\QuadradoDivisao.csproj.CoreCompileInputs.cache
+C:\Users\tamy_\source\repos\QuadradoDivisao\obj\Debug\QuadradoDivisao.exe
+C:\Users\tamy_\source\repos\QuadradoDivisao\obj\Debug\QuadradoDivisao.pdb

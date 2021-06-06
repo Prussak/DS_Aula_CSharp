@@ -1,0 +1,10 @@
+C:\Users\tamy_\source\repos\Tabuada\obj\Debug\Tabuada.csprojAssemblyReference.cache
+C:\Users\tamy_\source\repos\Tabuada\obj\Debug\Tabuada.Form1.resources
+C:\Users\tamy_\source\repos\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+C:\Users\tamy_\source\repos\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+C:\Users\tamy_\source\repos\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\tamy_\source\repos\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\tamy_\source\repos\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\tamy_\source\repos\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\tamy_\source\repos\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\tamy_\source\repos\Tabuada\obj\Debug\Tabuada.pdb
